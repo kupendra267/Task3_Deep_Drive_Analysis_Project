@@ -1,30 +1,28 @@
-# Deep Dive Analysis Project
+# 📊 Sales Analysis Dashboard
 
-## 📌 Objective
-Perform deep data analysis and build an interactive dashboard.
+An end-to-end data analysis project using Python and Power BI to analyze sales data and generate business insights.
+
+## 🚀 Overview
+This project includes data cleaning, KPI calculation, visualization, and dashboard creation.
+
+## 🧰 Tech Stack
+- Python (Pandas, Matplotlib)
+- Power BI
+- CSV
+
+## 📌 Features
+- Data Cleaning
+- KPI Calculation (Revenue, Orders, AOV)
+- Regional Sales Analysis
+- Category Analysis
+- Monthly Trends
 
 ## 📊 KPIs
 - Total Revenue
 - Total Orders
-- Average Order Value
+- Average Order Value (AOV)
 
-## 🛠 Tools Used
-- Python (Pandas, Matplotlib)
-- Power BI
-
-## 🔍 Steps
-1. Data Cleaning
-2. KPI Calculation
-3. Data Analysis
-4. Visualization
-5. Dashboard Creation
-
-## 📁 Output
-- Charts (outputs/charts/)
-- Report (outputs/report.txt)
-- Dashboard (dashboard/dashboard.pbix)
-
-## ▶️ How to Run
+## ⚙️ Run
 ```bash
 pip install -r requirements.txt
 python main.py
